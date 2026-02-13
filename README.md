@@ -5,10 +5,9 @@
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> About Me
-- ☕ **Passion:** On a journey to master Java and build efficient applications.
-- 🌱 **Learning:** Currently exploring Data Structures, Algorithms, and Core Java.
-- 🎯 **Goal:** Becoming a professional Java Developer.
-- 💬 **Interests:** Love tinkering with CLI, Automation, and optimizing workflows.
+- ☕ **Focus:** Learning Java for Android.
+- 🌱 **Status:** Just a beginner (noob) on a journey to improve.
+- 🎯 **Goal:** Better understanding of Android development.
 
 ---
 
