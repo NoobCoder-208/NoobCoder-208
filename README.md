@@ -8,7 +8,7 @@
 - 🐍 **Current Focus:** I am actively learning **Python** and exploring the world of automation.
 - 🔍 **Mindset:** I love to learn, explore, and research new technologies to expand my knowledge.
 - 🎮 **Gaming:** A passionate **Free Fire** player who enjoys combining gaming with coding.
-- ⚙️ **Current Project:** I am currently working on expanding my collection of **bot accounts** to develop and optimize a **Free Fire Like API** for the community.
+- ⚙️ **Current Project:** I am currently working on expanding my collection of **bot accounts** to develop and optimize a **Free Fire Like API**.
 
 ---
 
