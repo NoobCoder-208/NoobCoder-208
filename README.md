@@ -1,24 +1,34 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /> Hi, I'm NoobCoder-208!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=NoobCoder-208%20|%20Java%20Learner&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=NoobCoder-208%20|%20Bot%20&%20API%20Free%20Fire&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> About Me
-- ☕ **Focus:** Learning Java for Android.
-- 🌱 **Status:** Just a beginner (noob) on a journey to improve.
-- 🎯 **Goal:** Better understanding of Android development.
+- 🐍 **Focus:** Python Developer & Bot Creator.
+- 🔥 **Niche:** Developing APIs and tools for **Free Fire (FF)**.
+- ⚙️ **Status:** Currently working on automated tools for game management.
+- 🎯 **Goal:** Building more complex and useful APIs for the community.
 
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30" /> Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" />
 </p>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Magic%20Wand.png" width="30" /> Featured Projects
+- **FRIENDAPI**: Python-based API to manage friends in Free Fire.
+- **TOKENJWTGEN**: JWT generator for Free Fire authorization.
+- **CHUONG-GEN-GUEST**: Automated guest account generator for Free Fire.
+- **INFO-API**: API for retrieving player data and game stats.
 
 ---
 
