@@ -5,7 +5,7 @@
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> About Me
-- 🐍 **Current Focus:** I am a dedicated student learning **Python** with a strong interest in automation.
+- 🐍 **Current Focus:** I am a **self-taught Python learner** with a strong interest in automation.
 - 🔍 **Exploration:** I love researching, discovering new source codes, and deploying projects to share knowledge.
 - 🎮 **Passion:** A **Free Fire** enthusiast who enjoys merging gaming with technical creativity.
 - ⚙️ **Active Work:** Currently grinding hard to collect and farm **bot accounts** to power my upcoming **Like API**.
