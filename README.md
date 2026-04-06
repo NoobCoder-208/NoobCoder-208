@@ -1,14 +1,14 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /> Hi, I'm NoobCoder-208!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=NoobCoder-208%20|%20Bot%20&%20API%20Free%20Fire&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=NoobCoder-208%20|%20Python%20&%20FF%20Bot&fontSize=45&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> About Me
-- 🐍 **Focus:** Python Developer & Bot Creator.
-- 🔥 **Niche:** Developing APIs and tools for **Free Fire (FF)**.
-- ⚙️ **Status:** Currently working on automated tools for game management.
-- 🎯 **Goal:** Building more complex and useful APIs for the community.
+- 🐍 **Current Focus:** I am actively learning **Python** and exploring the world of automation.
+- 🔍 **Mindset:** I love to learn, explore, and research new technologies to expand my knowledge.
+- 🎮 **Gaming:** A passionate **Free Fire** player who enjoys combining gaming with coding.
+- ⚙️ **Current Project:** I am currently working on expanding my collection of **bot accounts** to develop and optimize a **Free Fire Like API** for the community.
 
 ---
 
@@ -29,6 +29,7 @@
 - **TOKENJWTGEN**: JWT generator for Free Fire authorization.
 - **CHUONG-GEN-GUEST**: Automated guest account generator for Free Fire.
 - **INFO-API**: API for retrieving player data and game stats.
+- **FF Like API**: (In Progress) An automated system for boosting profile likes using bot accounts.
 
 ---
 
@@ -46,5 +47,5 @@
 ---
 
 <p align="center">
-  <i>"Success is the sum of small efforts, repeated day in and day out."</i> ✨
+  <i>"Keep exploring, keep coding, and keep leveling up!"</i> 🚀
 </p>
