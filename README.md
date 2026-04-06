@@ -5,10 +5,10 @@
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> About Me
-- 🐍 **Current Focus:** I am actively learning **Python** and exploring the world of automation.
-- 🔍 **Mindset:** I love to learn, explore, and research new technologies to expand my knowledge.
-- 🎮 **Gaming:** A passionate **Free Fire** player who enjoys combining gaming with coding.
-- ⚙️ **Current Project:** I am currently working on expanding my collection of **bot accounts** to develop and optimize a **Free Fire Like API**.
+- 🐍 **Current Focus:** I am a dedicated student learning **Python** with a strong interest in automation.
+- 🔍 **Exploration:** I love researching, discovering new source codes, and deploying projects to share knowledge.
+- 🎮 **Passion:** A **Free Fire** enthusiast who enjoys merging gaming with technical creativity.
+- ⚙️ **Active Work:** Currently grinding hard to collect and farm **bot accounts** to power my upcoming **Like API**.
 
 ---
 
@@ -25,11 +25,11 @@
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Magic%20Wand.png" width="30" /> Featured Projects
-- **FRIENDAPI**: Python-based API to manage friends in Free Fire.
-- **TOKENJWTGEN**: JWT generator for Free Fire authorization.
+- **FF Like API**: `(Grinding bot accounts 💔)` An automated system for boosting profile likes.
+- **FRIENDAPI**: Python-based API for managing Free Fire friend lists.
+- **TOKENJWTGEN**: JWT generator for Free Fire authentication.
 - **CHUONG-GEN-GUEST**: Automated guest account generator for Free Fire.
-- **INFO-API**: API for retrieving player data and game stats.
-- **FF Like API**: (thu thap+ cày cuốc acc bot💔) An automated system for boosting profile likes using bot accounts.
+- **INFO-API**: Reliable API for retrieving player data and game statistics.
 
 ---
 
@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <i>"Keep exploring, keep coding, and keep leveling up!"</i> 🚀
+  <i>"Grind now, shine later. Keep coding!"</i> 🚀
 </p>
