@@ -29,7 +29,7 @@
 - **TOKENJWTGEN**: JWT generator for Free Fire authorization.
 - **CHUONG-GEN-GUEST**: Automated guest account generator for Free Fire.
 - **INFO-API**: API for retrieving player data and game stats.
-- **FF Like API**: (In Progress) An automated system for boosting profile likes using bot accounts.
+- **FF Like API**: (thu thap+ cày cuốc acc bot💔) An automated system for boosting profile likes using bot accounts.
 
 ---
 
