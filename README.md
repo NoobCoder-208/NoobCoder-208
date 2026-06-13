@@ -56,6 +56,14 @@
 
 ---
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" width="30" /> Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoobCoder-208&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Target.png" width="30" /> Current Goals
 
 - 🎯 Build a complete Free Fire API ecosystem
