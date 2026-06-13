@@ -83,6 +83,6 @@
 
 <p align="center">
   <a href="https://github.com/NoobCoder-208">
-    <img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+Let's+build+something+awesome;See+you+in+my+repositories!;Happy+Coding+%F0%9F%91%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+build+something+awesome!;Happy+Coding" alt="Typing SVG" />
   </a>
 </p>
