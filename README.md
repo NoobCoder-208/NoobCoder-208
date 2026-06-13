@@ -4,11 +4,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=NoobCoder-208%20|%20Python%20&%20FF%20Bot&fontSize=45&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
+---
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> About Me
-- 🐍 **Current Focus:** I am a **self-taught Python learner** with a strong interest in automation.
-- 🔍 **Exploration:** I love researching, discovering new source codes, and deploying projects to share knowledge.
-- 🎮 **Passion:** A **Free Fire** enthusiast who enjoys merging gaming with technical creativity.
-- ⚙️ **Active Work:** Currently grinding hard to collect and farm **bot accounts** to power my upcoming **Like API**.
+
+- 🐍 **Current Focus:** Self-taught Python learner with a strong interest in automation
+- 🔍 **Exploration:** Love researching, discovering new source codes, and deploying projects
+- 🎮 **Passion:** Free Fire enthusiast who enjoys merging gaming with technical creativity
+- ⚙️ **Active Work:** Building APIs and automation tools for game-related projects
+- 🌱 **Learning:** Always exploring new technologies and improving my coding skills
 
 ---
 
@@ -20,16 +24,19 @@
   <img src="https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Magic%20Wand.png" width="30" /> Featured Projects
-- **FF Like API**: `(Grinding bot accounts 💔)` An automated system for boosting profile likes.
-- **FRIENDAPI**: Python-based API for managing Free Fire friend lists.
-- **TOKENJWTGEN**: JWT generator for Free Fire authentication.
-- **CHUONG-GEN-GUEST**: Automated guest account generator for Free Fire.
-- **INFO-API**: Reliable API for retrieving player data and game statistics.
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🔥 **FF Like API** | Automated system for boosting profile likes | `In Progress` |
+| 👥 **FRIENDAPI** | Python-based API for managing Free Fire friend lists | `Complete` |
+| 📊 **INFO-API** | Reliable API for retrieving player data and game statistics | `Complete` |
 
 ---
 
@@ -41,11 +48,33 @@
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=NoobCoder-208&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NoobCoder-208&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Target.png" width="30" /> Current Goals
+
+- 🎯 Build a complete Free Fire API ecosystem
+- 📚 Master Python automation and web scraping
+- 🚀 Deploy more useful tools for the community
+- 🤝 Collaborate with other developers
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NoobCoder-208&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <p align="center">
   <i>"Grind now, shine later. Keep coding!"</i> 🚀
+</p>
+
+<p align="center">
+  <a href="https://github.com/NoobCoder-208">
+    <img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+Let's+build+something+awesome;See+you+in+my+repositories!;Happy+Coding+%F0%9F%91%BB" alt="Typing SVG" />
+  </a>
 </p>
