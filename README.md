@@ -90,6 +90,12 @@ class NoobCoder:
   <a href="https://github.com/NoobCoder-208?tab=repositories">
     <img src="https://img.shields.io/badge/My%20Repos-4285F4?style=for-the-badge&logo=git&logoColor=white" />
   </a>
+  <a href="mailto:dangchinhcbg@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/Nhi_cte208">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 ---
