@@ -71,22 +71,14 @@ class NoobCoder:
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Target.png" width="30" /> Current Goals
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">🎯</td>
-      <td><b>Build</b> a complete Free Fire API ecosystem</td>
-      <td align="center">📚</td>
-      <td><b>Master</b> Python automation & web scraping</td>
-    </tr>
-    <tr>
-      <td align="center">🚀</td>
-      <td><b>Deploy</b> more useful tools for the community</td>
-      <td align="center">🤝</td>
-      <td><b>Collaborate</b> with other developers</td>
-    </tr>
-  </table>
-</p>
+<div align="center">
+
+|     | Goal |     | Goal |
+|:---:|------|:---:|------|
+| 🎯 | **Build** a complete Free Fire API ecosystem | 📚 | **Master** Python automation & web scraping |
+| 🚀 | **Deploy** more useful tools for the community | 🤝 | **Collaborate** with other developers |
+
+</div>
 
 ---
 
