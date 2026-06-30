@@ -43,7 +43,9 @@ class NoobCoder:
 
 | Project | Description | Tech | Status |
 |---------|-------------|------|--------|
-| 👥 **FRIENDAPI** | Python-based API for managing Free Fire friend lists | `Python / FastAPI` | ✅ Complete |
+| 👥 **[FRIENDAPI](https://github.com/NoobCoder-208/FriendAPI)** | Python-based API for managing Free Fire friend lists | `Python / FastAPI` | ✅ Complete |
+| 📊 **[Free-Fire-Player-INFO](https://github.com/NoobCoder-208/Free-Fire-Player-INFO)** | Retrieve player data and game statistics | `Python / Flask` | ✅ Complete |
+| 🔧 **[FixOb54JWT](https://github.com/NoobCoder-208/FixOb54JWT)** | Fix JWT token for OB54 version | `Python` | ✅ Complete |
 
 ---
 
