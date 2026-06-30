@@ -44,9 +44,7 @@ class NoobCoder:
 
 | Project | Description | Tech | Status |
 |---------|-------------|------|--------|
-| 🔥 **FF Like API** | Automated system for boosting profile likes | `Python / Flask` | 🚧 In Progress |
 | 👥 **FRIENDAPI** | Python-based API for managing Free Fire friend lists | `Python / FastAPI` | ✅ Complete |
-| 📊 **INFO-API** | Reliable API for retrieving player data & game statistics | `Python / Flask` | ✅ Complete |
 
 ---
 
