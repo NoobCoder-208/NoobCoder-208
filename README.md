@@ -98,6 +98,8 @@ class NoobCoder:
   </a>
 </p>
 
+> 💡 **Open for collaboration!** Nếu bạn có ý tưởng hoặc dự án phù hợp với khả năng của mình, đừng ngần ngại liên hệ qua Gmail hoặc Telegram nhé. Mình sẵn lòng hợp tác trong khả năng có thể! 🤝
+
 ---
 
 <p align="center">
